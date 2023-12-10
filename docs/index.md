@@ -25,6 +25,7 @@ hidden:
 caption: 程序
 ---
 概述 <程序/程序>
+Rust <程序/Rust/Rust>
 ```
 
 ```{toctree}
@@ -34,7 +35,7 @@ hidden:
 caption: 计算机
 ---
 概述 <计算机/计算机>
-应用 <计算机/应用>
+应用 <计算机/应用/应用>
 ```
 
 ```{toctree}
