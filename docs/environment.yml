@@ -3,8 +3,8 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.9.7
-  - sphinx=5.0.0
-  - myst-parser=0.15.2
-  - pip:
-    - sphinx-rtd-theme==1.0.0
+  - python=3.12
+  - sphinx
+  - myst-parser
+  - sphinx-rtd-theme
+  - sphinxcontrib-plantuml

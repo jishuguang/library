@@ -25,6 +25,7 @@ hidden:
 caption: 程序
 ---
 概述 <程序/程序>
+C++ <程序/C++/C++>
 Rust <程序/Rust/Rust>
 ```
 

@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '姬曙光的资料库'
-copyright = '2021, jishuguang'
+copyright = '姬曙光'
 author = '姬曙光'
 
 
@@ -28,7 +28,8 @@ author = '姬曙光'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'myst_parser'
+    'myst_parser',
+    'sphinxcontrib.plantuml'
 ]
 source_suffix = {
     '.md': 'markdown'
