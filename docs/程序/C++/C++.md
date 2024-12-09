@@ -3,6 +3,7 @@
 ## 概述
 
 ```{mermaid}
+mindmap
 C++
   语法
   标准库
