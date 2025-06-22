@@ -65,6 +65,21 @@ make help
 
 Makefile structure
 - main Makefile
+  - local tool
+  - kernel tool
 - arch/arch/Makefile
 - scripts/Makefile.*
 - subdir containing Makefiles
+  - obj-y = xxx.o
+  - obj-$(XX) += xx.o
+  - obj-m += xx.o
+
+## Debugging
+
+- GDB/DDD
+- /proc/kcore (current state of the kernel in ELF core format)
+- KGDB
+
+## User-Mode Linux
+
+ARCH=um
